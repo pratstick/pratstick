@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Pratyush</h1>
-<h3 align="center">A bit of a frontend enthusiast, putting the "fun" in function() and the "dev" in developer! A byte into backend wizardry helps sometimes</h3>
+<h3 align="center">A bit of a backend enthusiast, putting the "fun" in function() and the "dev" in developer! A byte into backend wizardry helps sometimes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratstick&label=Profile%20views&color=0e75b6&style=flat" alt="pratstick" /> </p>
 
