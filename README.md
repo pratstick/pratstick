@@ -1,37 +1,39 @@
-# Pratyush
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratyush-k-/">
+    <img width="80%" alt="Hello, I'm Pratyush!" src="./assets/gh-readme-header.png" />
+  </a>
+</p>
 
-```typescript
-const profile = {
-  name: "Pratyush",
-  bio: "I'm a developer who enjoys learning new technologies and building useful things. Always exploring, always improving.",
-  learning: "- Contribute more to open source projects
-- Deepen my understanding of modern frameworks and tools
-- Build projects that are practical and helpful
-- Improve my problem-solving and code quality
-- Communicate more clearly, both in code and documentation
+<br />
 
-Thanks for stopping by!",
-  skills: [
-    "React",
-    "Material UI",
-    "HTML5",
-    "Node.js",
-    "MongoDB",
-    "MySQL",
-    "Docker",
-    "TensorFlow",
-    "PyTorch",
-    "Scikit-Learn",
-    "Pandas",
-    "NumPy",
-    "C++",
-    "Python",
-    "JavaScript"
-  ],
-}
-```
+I'm a self-taught developer who enjoys learning new technologies and building useful things. Always exploring, not necessarily improving.
 
-## 🌱 I'm currently learning
+**About me**
+
+- 🛠️ Currently exploring open source: contributing to projects and collaborating with the community.
+- 🚀 Focused on deepening my understanding of modern frameworks, tools, and best practices.
+- 🧩 Love building practical, impactful projects and solving real-world problems.
+- 📚 Improving my problem-solving, code quality, and communication (in code & docs!).
+- 💬 Reach out if you want to collaborate or just chat about tech.
+
+
+---
+
+| <a href="https://github.com/pratstick/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratstick&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Pratyush's github stats" /></a> | <a href="https://github.com/pratstick/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratstick&layout=compact&theme=onedark&hide_border=true&langs_count=5" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/pratstick/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratstick&repo=github-readme-stats&theme=onedark" />
+</a>
+<a href="https://github.com/pratstick/pratstick">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratstick&repo=pratstick&theme=onedark" />
+</a>
+
+---
+
+## 🌱 Currently Learning
 
 - Contribute more to open source projects
 - Deepen my understanding of modern frameworks and tools
@@ -41,80 +43,41 @@ Thanks for stopping by!",
 
 Thanks for stopping by!
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratstick&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'pratstick' with your actual GitHub username in the URL below -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/pratstick/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'pratstick' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratstick&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'pratstick' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratstick&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-## 💻 Tech Stack
-
-```json
-{
-  "frontend": [
-    "React",
-    "Material UI",
-    "HTML5"
-  ],
-  "backend": [
-    "Node.js",
-    "MongoDB",
-    "MySQL"
-  ],
-  "devops": [
-    "Docker"
-  ],
-  "ai/ml": [
-    "TensorFlow",
-    "PyTorch",
-    "Scikit-Learn",
-    "Pandas",
-    "NumPy"
-  ],
-  "languages": [
-    "C++",
-    "Python",
-    "JavaScript"
-  ]
-}
-```
+---
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "pratstick",
-  linkedin: "https://www.linkedin.com/in/pratyush-k-/",
-}
-```
+<a href="https://github.com/pratstick">
+  <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/pratyush-k-/">
+  <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<div>
-<a href="https://github.com/pratstick"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pratyush-k-/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</div>
+---
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "pratyushk2005@gmail.com",
-}
-```
+- Email: pratyushk2005@gmail.com
+
+---
 
 ```typescript
 // Thanks for visiting my profile!
